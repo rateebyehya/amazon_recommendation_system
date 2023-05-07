@@ -4,7 +4,7 @@
 
 Hello everyone, 
 
-I am excited to share the details of a project my team and I developed as part of the Amazon Hackathon challenge organized for UCLA MSBA students in the Fall of 2020. The challenge required us to build a recommendation system for products using a dataset containing 25,000 products and 26 features. 
+I am excited to share the details of a project my team and I developed as part of the Amazon Hackathon challenge organized for UCLA MSBA students in the Fall of 2022. The challenge required us to build a recommendation system for products using a dataset containing 25,000 products and 26 features. 
 
 ## Data 
 
