@@ -53,7 +53,7 @@ Our recommendation system performed well in terms of accuracy and speed, and we 
 
 ## Data Restrictions 
 
-Because the data is sourced from Amazon, I will not be able to share the notebook. However, I have attached a demo video which we have presented to the Senior Analytics Insights Manager at Amazon during our final presentation. 
+Because the data is sourced from Amazon, I will not be able to share the notebook. However, I have attached a demo video which we have presented to the Senior Analytics Insights Manager at Amazon, Dr. Day Yi, during our final presentation. 
 
 ## Interview Tips 
 
